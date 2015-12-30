@@ -1,0 +1,21 @@
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Dec 30 02:01:19 2015] ***
+compiled with version: 4.8.4 on 30 December 2015 01:38:17
+os: Linux-3.13.0-74-generic #118-Ubuntu SMP Thu Dec 17 22:52:10 UTC 2015
+nodename: ci-ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/ci/workspace/django/mysite
+writing pidfile to /tmp/project-master.pid
+detected binary path: /usr/local/bin/uwsgi
+chdir() to ./
+your processes number limit is 94654
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+Python version: 2.7.6 (default, Jun 22 2015, 18:01:27)  [GCC 4.8.2]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x238ac90
+The -s/--socket option is missing and stdin is not a socket.
